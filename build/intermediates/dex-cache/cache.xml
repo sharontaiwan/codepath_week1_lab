@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sharonwang/work/WWCode/Lab1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/sharonwang/work/WWCode/Lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_3b4be06bcd5b522127037b49dbcbf9b47e889d66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharonwang/work/WWCode/codepath_week1_lab/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/sharonwang/work/WWCode/codepath_week1_lab/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_cc490fa58cbe20e6f0385dcb13063fd04804cb55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharonwang/work/WWCode/codepath_week1_lab/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/sharonwang/work/WWCode/codepath_week1_lab/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_1fd3f574c0a8c47859985636c2e0e96ba62ce22c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharonwang/work/WWCode/codepath_week1_lab/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/sharonwang/work/WWCode/codepath_week1_lab/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_16ad402918fb897a795f9c301bab4bb9896da244/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharonwang/work/WWCode/codepath_week1_lab/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/sharonwang/work/WWCode/codepath_week1_lab/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_efdd0b591875d3cc94ea42be22550d122d97f7f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharonwang/work/WWCode/Lab1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/sharonwang/work/WWCode/Lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_12012ff9d9c0a1a0a4402ab161fe3f2268e7f836/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharonwang/work/WWCode/Lab1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/sharonwang/work/WWCode/Lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_bda11cbd42fff89b2f7020ac04ab3c8be7873b44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharonwang/work/WWCode/codepath_week1_lab/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/sharonwang/work/WWCode/codepath_week1_lab/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_494757d08ca6a7427f095171191a6551ad84b414/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharonwang/work/WWCode/Lab1/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sharonwang/work/WWCode/Lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_2e715ab225d30154e16ed87431b01d0442113ac7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharonwang/work/WWCode/codepath_week1_lab/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/sharonwang/work/WWCode/codepath_week1_lab/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_e84ecb47d06a44219484492e1431a39631d3695b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharonwang/work/WWCode/codepath_week1_lab/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3910b4fcc40041ad4413be9d46dba5490536137c">
+        <dex dex="/Users/sharonwang/work/WWCode/codepath_week1_lab/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_753f320a8d2ac5e214a8499157740f71c648efce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharonwang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/sharonwang/work/WWCode/Lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_639bb2c58f90ee10928faf8eecd4e598ea89d7c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharonwang/work/WWCode/Lab1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/sharonwang/work/WWCode/Lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_6d523ef49b7bc13cf49fdb7da7963e3a4f3e59c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharonwang/work/WWCode/codepath_week1_lab/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5fd33ae7aac12ee00af20fb48f263bed29a87436">
+        <dex dex="/Users/sharonwang/work/WWCode/codepath_week1_lab/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_06a1f37b623f92b8f2ec41d4610a6914bab39b48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharonwang/work/WWCode/Lab1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/sharonwang/work/WWCode/Lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_2f78670be8958aff3a6ca8f393af37a3aedc0403/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharonwang/work/WWCode/Lab1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/sharonwang/work/WWCode/Lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_f166e654d762e9ff057c326c0997b21b0c693587/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharonwang/work/WWCode/Lab1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed4991286890e28536e72e83bd4614001acf8eb7">
+        <dex dex="/Users/sharonwang/work/WWCode/Lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_839f7f5aefcf0ac517900b165fff450e08d2acad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharonwang/work/WWCode/codepath_week1_lab/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/sharonwang/work/WWCode/codepath_week1_lab/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_a0ef37c2d86dc1b3ab5986874ad7bf66592a94db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharonwang/work/WWCode/Lab1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/sharonwang/work/WWCode/Lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_b6efde18ad4b3107d0211078d36fa2aade6dad54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharonwang/work/WWCode/codepath_week1_lab/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/sharonwang/work/WWCode/codepath_week1_lab/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_5e06c8550262da5d7f5ce4f6bd07f6d1533a5ded/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharonwang/work/WWCode/codepath_week1_lab/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sharonwang/work/WWCode/codepath_week1_lab/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_141a8d6c55aa9d9855bfaee8298b032df3d0736c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharonwang/work/WWCode/Lab1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/sharonwang/work/WWCode/Lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_458793cd47ee16f45fbf50953781b55e38007dc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharonwang/work/WWCode/Lab1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f543e0cace9894a75a6224bbf97d7c98ca7b6d85">
+        <dex dex="/Users/sharonwang/work/WWCode/Lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_49e37cee0f7f6aea3a8cde60dcde7b90b4821f82/classes.dex" />
+    </item>
+
+</items>
